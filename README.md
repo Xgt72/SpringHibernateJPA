@@ -1,4 +1,5 @@
 # SpringHibernateJPA
 SpringHibernateJPA
 
-put your username and password to mysql and you need to have a wild_db_quest database.
+Put your username and password to mysql into application.propertis in src/main/resources/.
+You need to have a wild_db_quest database.
