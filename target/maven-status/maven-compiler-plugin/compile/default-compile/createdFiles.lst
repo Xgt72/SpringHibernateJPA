@@ -1,0 +1,4 @@
+com/wildcodeschool/springHibernateJPA/utils/Outputter.class
+com/wildcodeschool/springHibernateJPA/SpringHibernateJpaApplication.class
+com/wildcodeschool/springHibernateJPA/entities/Car.class
+com/wildcodeschool/springHibernateJPA/repositories/CarRepository.class
